@@ -20,7 +20,7 @@ This program is designed to equip backend engineers with the skills and knowledg
 - Monitoring and logging
 - CI/CD pipelines
 
-## Takeaways (Table format of 4 columns: Module, Description, Skills Acquired, Projects)
+## Summary of Challenges and Learnings
 | Challenges Faced | Solutions Implemented | Best Practices | Personal Takeaways |
 |------------------|-----------------------|----------------|--------------------|
 | Understanding complex backend architectures | Breaking down systems into smaller components for better comprehension | Modular design, clear documentation | Gained a deeper understanding of how large-scale backend systems operate |

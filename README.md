@@ -1,4 +1,4 @@
-# ProDev Backend Engineering program Overview
+# ProDev Backend Nexus Project Overview
 This program is designed to equip backend engineers with the skills and knowledge of modern Backend engineering tools needed to become a senior software engineer. The curriculum covers a wide range of topics, including server-side programming, database management, API development using REST and GraphQL, and cloud computing.
 
 ## Major Learning Areas

@@ -18,7 +18,7 @@ This program is designed to equip backend engineers with the skills and knowledg
 - Asyncrhonous programming
 - Caching strategies
 - Monitoring and logging
-- CI/CD pipelines
+- Building CI/CD pipelines
 
 ## Summary of Challenges and Learnings
 | Challenges Faced | Solutions Implemented | Best Practices | Personal Takeaways |
